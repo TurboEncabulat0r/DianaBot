@@ -18,6 +18,9 @@ Put your bot token in config.json and your apikey in the hypixleimpl python file
 
 ### Libraries
 pycord
+
 `python3 -m pip install -U py-cord --pre`
+
 requests
+
 `python3 -m pip install requests`
