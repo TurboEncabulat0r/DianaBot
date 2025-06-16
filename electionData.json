@@ -1,0 +1,222 @@
+{
+    "success": true,
+    "lastUpdated": 1749949494450,
+    "mayor": {
+        "key": "jerry",
+        "name": "Jerry",
+        "perks": [
+            {
+                "name": "Perkpocalypse",
+                "description": "Activates all perks of another mayor every 18 SkyBlock days (6 hours)."
+            },
+            {
+                "name": "Statspocalypse",
+                "description": "Increases most stats by \u00a7a10%\u00a77."
+            },
+            {
+                "name": "Jerrypocalypse",
+                "description": "Reveal hidden Jerries from logging, farming, mining and killing mobs."
+            }
+        ],
+        "election": {
+            "year": 424,
+            "candidates": [
+                {
+                    "key": "dungeons",
+                    "name": "Paul",
+                    "perks": [
+                        {
+                            "name": "Marauder",
+                            "description": "Dungeon reward chests are \u00a7e20% \u00a77cheaper.",
+                            "minister": true
+                        },
+                        {
+                            "name": "Benediction",
+                            "description": "Blessings are \u00a7d25% \u00a77stronger.",
+                            "minister": false
+                        }
+                    ],
+                    "votes": 27064
+                },
+                {
+                    "key": "pets",
+                    "name": "Diana",
+                    "perks": [
+                        {
+                            "name": "Lucky!",
+                            "description": "Gain \u00a7d+25\u2663 Pet Luck\u00a77.",
+                            "minister": true
+                        }
+                    ],
+                    "votes": 16997
+                },
+                {
+                    "key": "slayer",
+                    "name": "Aatrox",
+                    "perks": [
+                        {
+                            "name": "Slayer XP Buff",
+                            "description": "Earn \u00a7d25% \u00a77more Slayer XP.",
+                            "minister": true
+                        }
+                    ],
+                    "votes": 30947
+                },
+                {
+                    "key": "mining",
+                    "name": "Cole",
+                    "perks": [
+                        {
+                            "name": "Prospection",
+                            "description": "Mining minions work \u00a7a25% \u00a77faster.",
+                            "minister": false
+                        },
+                        {
+                            "name": "Mining XP Buff",
+                            "description": "Get \u00a73+60\u262f Mining Wisdom \u00a77on public islands.",
+                            "minister": false
+                        },
+                        {
+                            "name": "Mining Fiesta",
+                            "description": "\u00a77Schedules 5 \u00a76Mining Fiestas \u00a77throughout the year! During these events gain \u00a73+75\u262f Mining Wisdom\u00a77, collect \u00a79Refined Mineral \u00a77and \u00a75Glossy Gemstone\u00a77, and earn \u00a7d2x drops \u00a77from mining!",
+                            "minister": false
+                        },
+                        {
+                            "name": "Molten Forge",
+                            "description": "Decrease the time it takes to \u00a76forge \u00a77items by \u00a7d25%\u00a77.",
+                            "minister": true
+                        }
+                    ],
+                    "votes": 173178
+                },
+                {
+                    "key": "jerry",
+                    "name": "Jerry",
+                    "perks": [
+                        {
+                            "name": "Perkpocalypse",
+                            "description": "Activates all perks of another mayor every 18 SkyBlock days (6 hours).",
+                            "minister": false
+                        },
+                        {
+                            "name": "Statspocalypse",
+                            "description": "Increases most stats by \u00a7a10%\u00a77.",
+                            "minister": false
+                        },
+                        {
+                            "name": "Jerrypocalypse",
+                            "description": "Reveal hidden Jerries from logging, farming, mining and killing mobs.",
+                            "minister": false
+                        }
+                    ],
+                    "votes": 1191235
+                }
+            ]
+        }
+    },
+    "current": {
+        "year": 425,
+        "candidates": [
+            {
+                "key": "farming",
+                "name": "Finnegan",
+                "perks": [
+                    {
+                        "name": "Pest Eradicator",
+                        "description": "The duration of Pesthunter Phillip's \u00a76\u2618 Farming Fortune \u00a77bonus is now \u00a7a60m\u00a77. Decreases the spawn cooldown of \u00a72Pests \u00a77by \u00a7a20%\u00a77.",
+                        "minister": true
+                    },
+                    {
+                        "name": "Pelt-pocalypse",
+                        "description": "Obtain \u00a7a1.5x \u00a77more \u00a75pelts \u00a77from \u00a7aTrevor \u00a77in the \u00a7eMushroom Desert\u00a77, hunt a new trapper mob, and purchase items from a new trapper shop.",
+                        "minister": false
+                    }
+                ],
+                "votes": 21137
+            },
+            {
+                "key": "pets",
+                "name": "Diana",
+                "perks": [
+                    {
+                        "name": "Lucky!",
+                        "description": "Gain \u00a7d+25\u2663 Pet Luck\u00a77.",
+                        "minister": false
+                    },
+                    {
+                        "name": "Pet XP Buff",
+                        "description": "Gain \u00a7d35% \u00a77more pet XP.",
+                        "minister": true
+                    }
+                ],
+                "votes": 30968
+            },
+            {
+                "key": "dungeons",
+                "name": "Paul",
+                "perks": [
+                    {
+                        "name": "Marauder",
+                        "description": "Dungeon reward chests are \u00a7e20% \u00a77cheaper.",
+                        "minister": false
+                    },
+                    {
+                        "name": "EZPZ",
+                        "description": "Gain \u00a7e10 \u00a77bonus score on dungeon runs.",
+                        "minister": false
+                    },
+                    {
+                        "name": "Benediction",
+                        "description": "Blessings are \u00a7d25% \u00a77stronger.",
+                        "minister": true
+                    }
+                ],
+                "votes": 304549
+            },
+            {
+                "key": "mining",
+                "name": "Cole",
+                "perks": [
+                    {
+                        "name": "Prospection",
+                        "description": "Mining minions work \u00a7a25% \u00a77faster.",
+                        "minister": true
+                    },
+                    {
+                        "name": "Mining XP Buff",
+                        "description": "Get \u00a73+60\u262f Mining Wisdom \u00a77on public islands.",
+                        "minister": false
+                    },
+                    {
+                        "name": "Mining Fiesta",
+                        "description": "\u00a77Schedules 5 \u00a76Mining Fiestas \u00a77throughout the year! During these events gain \u00a73+75\u262f Mining Wisdom\u00a77, collect \u00a79Refined Mineral \u00a77and \u00a75Glossy Gemstone\u00a77, and earn \u00a7d2x drops \u00a77from mining!",
+                        "minister": false
+                    }
+                ],
+                "votes": 524543
+            },
+            {
+                "key": "events",
+                "name": "Foxy",
+                "perks": [
+                    {
+                        "name": "Sweet Benevolence",
+                        "description": "Earn \u00a7a+30% \u00a77more \u00a7dCandy\u00a77, \u00a7cGifts \u00a77and \u00a76Chocolate \u00a77from duplicate rabbits during their respective events.",
+                        "minister": true
+                    },
+                    {
+                        "name": "Chivalrous Carnival",
+                        "description": "Schedules a \u00a7eCarnival \u00a77in the hub, active throughout the \u00a7bentire year\u00a77.",
+                        "minister": false
+                    },
+                    {
+                        "name": "Extra Event",
+                        "description": "Schedules an extra \u00a76Spooky Festival \u00a77event during the year.",
+                        "minister": false
+                    }
+                ],
+                "votes": 39268
+            }
+        ]
+    }
+}
