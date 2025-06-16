@@ -14,6 +14,9 @@ def loadConfig():
             return config['discToken'], config['guildId']
     except FileNotFoundError:
         print("config.json not found")
+        with open("config.json", "w") as f:
+            json.dump({"discToken": "", "guildId": ""}, f, indent=4)
+        print("config.json created with defaults")
         return None, None
     except KeyError as e:
         print(f"config.json missing required fields: {e}")
