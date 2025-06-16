@@ -1,6 +1,6 @@
 import requests, time
 
-apiKey = "fdcee071-edf1-43f1-bd96-45aa9144634b"
+apiKey = ""
 mayorUrl = "https://api.hypixel.net/v2/resources/skyblock/election"
 
 lastUpdated = 0
